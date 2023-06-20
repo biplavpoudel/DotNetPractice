@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{FA925D11-EABE-4EF9-B522-8F0CF36269B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{4F1D8009-FA6D-4C93-8FBA-4400CD9A1823}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FA925D11-EABE-4EF9-B522-8F0CF36269B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA925D11-EABE-4EF9-B522-8F0CF36269B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA925D11-EABE-4EF9-B522-8F0CF36269B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1D8009-FA6D-4C93-8FBA-4400CD9A1823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1D8009-FA6D-4C93-8FBA-4400CD9A1823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1D8009-FA6D-4C93-8FBA-4400CD9A1823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1D8009-FA6D-4C93-8FBA-4400CD9A1823}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
