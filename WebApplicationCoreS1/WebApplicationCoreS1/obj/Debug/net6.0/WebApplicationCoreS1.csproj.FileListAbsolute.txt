@@ -29,3 +29,15 @@ C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\obj\Debug\net6.0\refint
 C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\obj\Debug\net6.0\WebApplicationCoreS1.pdb
 C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\obj\Debug\net6.0\WebApplicationCoreS1.genruntimeconfig.cache
 C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\obj\Debug\net6.0\ref\WebApplicationCoreS1.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\cs11dotnet7\WebApplicationCoreS1\WebApplicationCoreS1\obj\Debug\net6.0\WebApplicationCoreS1.csproj.CopyComplete
