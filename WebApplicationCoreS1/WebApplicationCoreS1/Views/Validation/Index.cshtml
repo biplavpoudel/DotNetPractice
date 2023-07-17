@@ -1,0 +1,28 @@
+﻿@model WebApplicationCoreS1.Models.WebUser     //I have to include models here too
+
+@*Using Tag Helpers*@
+
+<form asp-controller="Validation" asp-action="ProcessForm" method="post">
+	@*<validation-summary class="text-danger" />*@
+
+	<div>
+
+		<label asp-for="FirstName"></label>
+		<input asp-for="FirstName" />
+		<span asp-validation-for="FirstName" class="text-danger"></span>
+	</div>
+	<div>
+		<label asp-for="LastName"></label>
+		<input asp-for="LastName" />
+		<span asp-validation-for="LastName" class="text-danger"></span>
+	</div>
+	<div>
+		<label asp-for="MailAddress"></label>
+		<input asp-for="MailAddress" />
+		<span asp-validation-for="MailAddress" class="text-danger"></span>
+	</div>
+
+	<button type="submit">Submit</button>
+</form>
+
+
