@@ -6,21 +6,18 @@ namespace WebApplicationCoreS1.Controllers
 {
 	public class UserController : Controller
 	{
+
 		public IActionResult Index()
 		{
-			return View();
+			return View(new WebUser() { FirstName = "Biplav", LastName= "Poudel", MailAddress="biplavpoudel764@gmail.com"});
 		}
 
-		[HttpGet]
-		public IActionResult SimpleBinding()
-		{
-			return View(new WebUser() { FirstName = "Biplav", LastName= "Poudel"});
-		}
 
+	//eutai route bata form data farkinxa so we are using the same action, albiet with a WebUser object as args
 		[HttpPost]      //notice action verb here: HttpPost
-		public IActionResult SimpleBinding(WebUser webUser)
+		public IActionResult SubmitForm(WebUser webUser)
 		{
-			return Content($"User {webUser.FirstName} updated!");
+			return RedirectToAction("Index", "Validation", webUser);
 		}
 	}
 }
