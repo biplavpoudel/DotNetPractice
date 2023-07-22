@@ -45,9 +45,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+            "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[7.0.9, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.7, )"
             }
           },
           "imports": [

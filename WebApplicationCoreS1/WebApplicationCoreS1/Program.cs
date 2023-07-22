@@ -1,36 +1,44 @@
+using WebApplicationCoreS1.Interfaces;
+using WebApplicationCoreS1.Services;
+
 namespace WebApplicationCoreS1
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+	public class Program
+	{
+		public static void Main(string[] args)
+		{
+			var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-            builder.Services.AddControllersWithViews();
+			// Add services to the container.
+			builder.Services.AddControllersWithViews();
 
-            var app = builder.Build();
+			//two alternative ways to add MyConsoleLogger services using default IOC Container
+			builder.Services.AddSingleton<ILog, MyConsoleLogger>();   // <service,implementation>
+			builder.Services.Add(new ServiceDescriptor(typeof(ILog),typeof(MyConsoleLogger), ServiceLifetime.Transient)); //same as above
 
-            // Configure the HTTP request pipeline.
-            if (!app.Environment.IsDevelopment())
-            {
-                app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
 
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
+			var app = builder.Build();
 
-            app.UseRouting();
+			// Configure the HTTP request pipeline.
+			if (!app.Environment.IsDevelopment())
+			{
+				app.UseExceptionHandler("/Home/Error");
+				// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+				app.UseHsts();
+			}
 
-            app.UseAuthorization();
+			app.UseHttpsRedirection();
+			app.UseStaticFiles();
 
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+			app.UseRouting();
 
-            app.Run();
-        }
-    }
+			app.UseAuthorization();
+
+			app.MapControllerRoute(
+				name: "default",
+				pattern: "{controller=Home}/{action=Index}/{id?}");
+
+			app.Run();
+		}
+	}
 }
