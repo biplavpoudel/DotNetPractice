@@ -367,9 +367,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\WebApplicationCoreS1.csproj",
-      "projectName": "WebApplicationCoreS1",
-      "projectPath": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\WebApplicationCoreS1.csproj",
+      "projectUniqueName": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\WorkingwithASP.NET.csproj",
+      "projectName": "WorkingwithASP.NET",
+      "projectPath": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\WorkingwithASP.NET.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\obj\\",
       "projectStyle": "PackageReference",

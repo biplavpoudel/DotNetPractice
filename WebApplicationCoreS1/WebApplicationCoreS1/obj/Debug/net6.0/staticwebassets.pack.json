@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplicationCoreS1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebApplicationCoreS1.bundle.scp.css"
+      "Id": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WorkingwithASPandHTTP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WorkingwithASPandHTTP.bundle.scp.css"
     },
     {
       "Id": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplicationCoreS1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WorkingwithASPandHTTP.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplicationCoreS1.props",
-      "PackagePath": "build\\WebApplicationCoreS1.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WorkingwithASPandHTTP.props",
+      "PackagePath": "build\\WorkingwithASPandHTTP.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationCoreS1.props",
-      "PackagePath": "buildMultiTargeting\\WebApplicationCoreS1.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WorkingwithASPandHTTP.props",
+      "PackagePath": "buildMultiTargeting\\WorkingwithASPandHTTP.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationCoreS1.props",
-      "PackagePath": "buildTransitive\\WebApplicationCoreS1.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WorkingwithASPandHTTP.props",
+      "PackagePath": "buildTransitive\\WorkingwithASPandHTTP.props"
     }
   ],
   "ElementsToRemove": []

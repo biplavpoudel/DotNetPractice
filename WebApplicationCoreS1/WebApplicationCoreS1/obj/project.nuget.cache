@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9T/OgkLjSzUR+LL41uc4lO0aRiWWtcUbaQ3uG5XY3Rpn5vCAD1CWTedXTvY+RwxmwSJNRhrWICkYOyJ/icai4w==",
+  "dgSpecHash": "6roEdbXQG4DO/DtcqDllru/vdvslozHBSeWrtKCKrTcsLJoYKqObFBHsdpnvXMIu5aPJB7kn4y/EKjPgzQkJlA==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\WebApplicationCoreS1.csproj",
+  "projectFilePath": "C:\\cs11dotnet7\\WebApplicationCoreS1\\WebApplicationCoreS1\\WorkingwithASP.NET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.9\\microsoft.aspnetcore.jsonpatch.7.0.9.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
