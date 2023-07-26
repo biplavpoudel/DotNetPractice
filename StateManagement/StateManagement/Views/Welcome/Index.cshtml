@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null; // Since this is a simple example, we won't use a layout.
+    //in this index page, the session is set. so to retrieve session data, we need to open this view page
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Set Session Data</title>
+</head>
+<body>
+    <h1>Welcome to the State Management Example</h1>
+
+    <form asp-controller="Welcome" asp-action="Index" method="post">
+        <input type="submit" value="Set Session Data">
+    </form>
+
+    <p>
+        <a asp-controller="Welcome" asp-action="Get">Retrieve Session Data</a>
+    </p>
+</body>
+</html>

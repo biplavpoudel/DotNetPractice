@@ -1,0 +1,23 @@
+﻿@model StateManagement.Models.Temp
+
+@{
+    ViewData["Title"] = "Third";
+}
+
+<h1>Third</h1>
+
+<div>
+    <h4>Temp</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.userID)
+        </dt>
+        <dd class="col-sm-10">
+            @TempData["UserID"]
+        </dd>
+    </dl>
+</div>
+<p>
+    <a asp-controller="TempData" asp-action="First">First View Page</a>
+</p>

@@ -1,0 +1,29 @@
+﻿@model StateManagement.Models.Temp
+
+@{
+    ViewData["Title"] = "First";
+    //var userid = TempData["UserID"];
+    //TempData.Keep("UserID");
+}
+
+<h1>First</h1>
+
+<div>
+    <h4>Temp</h4>
+    <form asp-controller="TempData" asp-action="First" method="post">
+        <input type="submit" value="Set Temp Data">
+    </form>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.userID)
+        </dt>
+        <dd class="col-sm-10">
+            @*TempData["UserID"]*@
+            @TempData.Peek("UserID")  @*Peek() displays data and retains it for next request only*@
+        </dd>
+    </dl>
+</div>
+<p>
+    <a asp-controller="TempData" asp-action="Second">Second View Page</a>
+</p>

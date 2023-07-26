@@ -8,6 +8,8 @@ namespace StateManagement
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
+			builder.Services.AddSession();
+			builder.Services.AddHttpContextAccessor();
 
 			var app = builder.Build();
 
@@ -23,6 +25,9 @@ namespace StateManagement
 			app.UseStaticFiles();
 
 			app.UseRouting();
+
+			// Call UseSession after UseRouting and before MapRazorPages and MapDefaultControllerRoute
+			app.UseSession();
 
 			app.UseAuthorization();
 
