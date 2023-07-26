@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z0/Hks1p8GNFU4YKpZfkVNai1YeCPwBtmjpw1YrSh/uBkO2BEUZA7u7QC4BmFOKFwf3iitqTBzCil65Jae+wbA==",
+  "dgSpecHash": "juNf8ynKL58kKWYAv3vFNR/e6bBvPvHLgU+UkGy7dRhki//fRvY8h8joDATM9MK99HGOIVDJykJNVnnZUHu2IQ==",
   "success": true,
   "projectFilePath": "C:\\cs11dotnet7\\WorkingWithDatabase\\WorkingWithDatabase\\WorkingWithDatabase.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.9\\microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
