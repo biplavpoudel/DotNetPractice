@@ -22,6 +22,7 @@ namespace StateManagement.Controllers
 			};
 			_contextAccessor.HttpContext.Response.Cookies.Append("MyCookie", "My Cookie Value", cookieOptions);
 
+			HttpContext.Session.SetInt32("Id", 100);
 			HttpContext.Session.SetString("Name", "John");
 			HttpContext.Session.SetInt32("Age", 32);
 			return View();
@@ -34,11 +35,30 @@ namespace StateManagement.Controllers
 
 			User u = new User()
 			{
+				Id = HttpContext.Session.GetInt32("Id").Value,
 				Name = HttpContext.Session.GetString("Name"),
 				Age = HttpContext.Session.GetInt32("Age").Value
 			};
 			return View(u);
 
+		}
+
+		[HttpGet]
+		public IActionResult SetHiddenValue()
+		{
+			User newUser = new User()
+			{
+				Id = 101,
+				Name = "Biplav",
+				Age = 22
+			};
+			return View(newUser);
+		}
+
+		[HttpPost]
+		public IActionResult SetHiddenValue(IFormCollection keyValues) {
+			var id = keyValues["Id"];
+			return View();
 		}
 	}
 }
