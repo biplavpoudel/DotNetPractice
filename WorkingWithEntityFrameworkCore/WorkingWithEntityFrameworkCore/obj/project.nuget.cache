@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqq4B/7hCm2a8eAHFn/tiwGTX6uVDrrSLqQ1973fR/Y7UM1gS4hdnj9apXSxZnoc+DyoJORzgRJ4ghE8RBaWbA==",
+  "dgSpecHash": "RRVjovYN45HT8WmnfOnjrfrQnZaeeqTTmYJks3bjE6HjWgANX6XYRyiwwJsmIscad8c59eLNpet+6MxQhUDIVA==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

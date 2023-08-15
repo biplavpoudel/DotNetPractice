@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iw7PCE0KvKRKoF1urWdrcRr6JqR0ZxYlpnrdn6z4qxgy7H7h0vpGcdfagajcOBBfksNkvAt6h2gpx9XPbFfLcQ==",
+  "dgSpecHash": "l3ShUM/lLbH6hDx9QSzn8jS9B0W2BzpBBrQ4TiBg2G9NIii6ht52+FxkgpPfk5fC3SVwtpfwwX/1CDcS2OzopA==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter03\\BitwiseAndShiftOperators\\BitwiseAndShiftOperators.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter03\\BitwiseAndShiftOperators\\BitwiseAndShiftOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

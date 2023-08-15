@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cs11dotnet7\\Chapter02\\Variables\\Variables.csproj": {}
+    "C:\\.dotNetPractice\\Chapter02\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\cs11dotnet7\\Chapter02\\Variables\\Variables.csproj": {
+    "C:\\.dotNetPractice\\Chapter02\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cs11dotnet7\\Chapter02\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\.dotNetPractice\\Chapter02\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "C:\\cs11dotnet7\\Chapter02\\Variables\\Variables.csproj",
+        "projectPath": "C:\\.dotNetPractice\\Chapter02\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\cs11dotnet7\\Chapter02\\Variables\\obj\\",
+        "outputPath": "C:\\.dotNetPractice\\Chapter02\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

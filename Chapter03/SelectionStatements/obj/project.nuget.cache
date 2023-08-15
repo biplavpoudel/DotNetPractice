@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZihAkq3HFKs9vLL66ec3UQKOTQo9ReMSA+eMlzqya9NUvq4hUqPQdDOBwPGgjq/SucKvXGIKiB01j81UxCbqA==",
+  "dgSpecHash": "yA/AD4J4+6zZg/5DdzAAVLNWGuOIQYx7ceyjHKiLK8UknXye3F5nJalIYKiOq/+clRsVgRzB+oUDjJQZeSRTag==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

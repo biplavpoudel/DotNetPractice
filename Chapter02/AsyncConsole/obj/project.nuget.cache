@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1XVDrKFCkwArEdzr8wqdlXJTuZl9+EbXlS0zkVX8mKvK6/cKVnEQrCzRFztX2S/YYFvo43am550f8yJxZUcuYQ==",
+  "dgSpecHash": "WJqBoRM3WbWVl3bB3AJtFiDlfWRgp96gh87fkicrgbSrLVQeIb9FKDcT+DaMSpBaQJLuycStc50VwoUW9a4Zug==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter02\\AsyncConsole\\AsyncConsole.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter02\\AsyncConsole\\AsyncConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

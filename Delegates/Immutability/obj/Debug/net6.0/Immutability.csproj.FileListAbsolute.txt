@@ -1,0 +1,14 @@
+C:\.dotNetPractice\Delegates\Immutability\bin\Debug\net6.0\Immutability.exe
+C:\.dotNetPractice\Delegates\Immutability\bin\Debug\net6.0\Immutability.deps.json
+C:\.dotNetPractice\Delegates\Immutability\bin\Debug\net6.0\Immutability.runtimeconfig.json
+C:\.dotNetPractice\Delegates\Immutability\bin\Debug\net6.0\Immutability.dll
+C:\.dotNetPractice\Delegates\Immutability\bin\Debug\net6.0\Immutability.pdb
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.AssemblyInfo.cs
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.dll
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\refint\Immutability.dll
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.pdb
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\Immutability.genruntimeconfig.cache
+C:\.dotNetPractice\Delegates\Immutability\obj\Debug\net6.0\ref\Immutability.dll

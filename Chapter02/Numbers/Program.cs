@@ -1,6 +1,5 @@
 ﻿using System;
-
-/*uint naturalNumber = 23;
+uint naturalNumber = 23;
 int integerNumber = -23;
 float realNumber = 2.3f;
 double anotherRealNumber = 2.3;
@@ -16,9 +15,9 @@ WriteLine($"Type int uses {sizeof(int)} bytes and can store numbers in the range
 
 WriteLine($"Type double uses {sizeof(double)} bytes and can store numbers in the range { double.MinValue:N0} \t to \t {double.MaxValue:N0}.\n");
 WriteLine($"Type decimal uses {sizeof(decimal)} bytes and can store numbers in the range { decimal.MinValue:N0} to {decimal.MaxValue:N0}.");
-*/
 
-WriteLine("Using doubles:");
+
+/*WriteLine("Using doubles:");
 double a = 0.1;
 double b = 0.2;
 if (a + b == 0.3)
@@ -43,4 +42,4 @@ if (c + d == 0.3M)
 else
 {
     WriteLine($"{c} + {d} does NOT equal {0.3}");
-}
+}*/

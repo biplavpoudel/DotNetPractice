@@ -13,3 +13,17 @@ C:\cs11dotnet7\Delegates\Event\obj\Debug\net6.0\refint\Event.dll
 C:\cs11dotnet7\Delegates\Event\obj\Debug\net6.0\Event.pdb
 C:\cs11dotnet7\Delegates\Event\obj\Debug\net6.0\Event.genruntimeconfig.cache
 C:\cs11dotnet7\Delegates\Event\obj\Debug\net6.0\ref\Event.dll
+C:\.dotNetPractice\Delegates\Event\bin\Debug\net6.0\Event.exe
+C:\.dotNetPractice\Delegates\Event\bin\Debug\net6.0\Event.deps.json
+C:\.dotNetPractice\Delegates\Event\bin\Debug\net6.0\Event.runtimeconfig.json
+C:\.dotNetPractice\Delegates\Event\bin\Debug\net6.0\Event.dll
+C:\.dotNetPractice\Delegates\Event\bin\Debug\net6.0\Event.pdb
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.AssemblyInfo.cs
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.dll
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\refint\Event.dll
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.pdb
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\Event.genruntimeconfig.cache
+C:\.dotNetPractice\Delegates\Event\obj\Debug\net6.0\ref\Event.dll

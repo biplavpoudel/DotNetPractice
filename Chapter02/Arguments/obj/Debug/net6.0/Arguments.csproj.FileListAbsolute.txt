@@ -13,3 +13,17 @@ C:\cs11dotnet7\Chapter02\Arguments\obj\Debug\net6.0\refint\Arguments.dll
 C:\cs11dotnet7\Chapter02\Arguments\obj\Debug\net6.0\Arguments.pdb
 C:\cs11dotnet7\Chapter02\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
 C:\cs11dotnet7\Chapter02\Arguments\obj\Debug\net6.0\ref\Arguments.dll
+C:\.dotNetPractice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.exe
+C:\.dotNetPractice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.deps.json
+C:\.dotNetPractice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+C:\.dotNetPractice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.dll
+C:\.dotNetPractice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.pdb
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.dll
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\refint\Arguments.dll
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.pdb
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
+C:\.dotNetPractice\Chapter02\Arguments\obj\Debug\net6.0\ref\Arguments.dll

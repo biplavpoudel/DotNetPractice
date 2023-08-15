@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2UAAUIcKMhWCFssOxmeIIQZOWyGPK6A8Jy4q+eSNHUoUNDCrx0yJEVzLWx6tiy0OmCg0D9fpF6XsstsKP0B4bw==",
+  "dgSpecHash": "8fe0dGhgjWmBOAOkAY9NadfT7C/jeqY93nvSApA08OJEn2MRm24msnS43XGjNm1B6O2iJstiqGSrx5rUC1w0UQ==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter03\\Operators\\Operators.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter03\\Operators\\Operators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

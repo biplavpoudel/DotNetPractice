@@ -13,3 +13,17 @@ C:\cs11dotnet7\Chapter02\Formatting\obj\Debug\net6.0\refint\Formatting.dll
 C:\cs11dotnet7\Chapter02\Formatting\obj\Debug\net6.0\Formatting.pdb
 C:\cs11dotnet7\Chapter02\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
 C:\cs11dotnet7\Chapter02\Formatting\obj\Debug\net6.0\ref\Formatting.dll
+C:\.dotNetPractice\Chapter02\Formatting\bin\Debug\net6.0\Formatting.exe
+C:\.dotNetPractice\Chapter02\Formatting\bin\Debug\net6.0\Formatting.deps.json
+C:\.dotNetPractice\Chapter02\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+C:\.dotNetPractice\Chapter02\Formatting\bin\Debug\net6.0\Formatting.dll
+C:\.dotNetPractice\Chapter02\Formatting\bin\Debug\net6.0\Formatting.pdb
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.dll
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.pdb
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+C:\.dotNetPractice\Chapter02\Formatting\obj\Debug\net6.0\ref\Formatting.dll

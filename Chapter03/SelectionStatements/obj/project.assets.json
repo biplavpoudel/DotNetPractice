@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
+      "projectUniqueName": "C:\\.dotNetPractice\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "C:\\cs11dotnet7\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
+      "projectPath": "C:\\.dotNetPractice\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\cs11dotnet7\\Chapter03\\SelectionStatements\\obj\\",
+      "outputPath": "C:\\.dotNetPractice\\Chapter03\\SelectionStatements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

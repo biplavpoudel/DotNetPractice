@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{A91EC243-19B4-46A9-AAFA-1608574A9133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{A91EC243-19B4-46A9-AAFA-1608574A9133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{74D1AB26-0470-442A-95D3-072843149B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj", "{74D1AB26-0470-442A-95D3-072843149B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immutability", "Immutability\Immutability.csproj", "{62731C00-1C05-48A2-8013-0D8D5BB4FF44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{74D1AB26-0470-442A-95D3-072843149B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D1AB26-0470-442A-95D3-072843149B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D1AB26-0470-442A-95D3-072843149B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62731C00-1C05-48A2-8013-0D8D5BB4FF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62731C00-1C05-48A2-8013-0D8D5BB4FF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62731C00-1C05-48A2-8013-0D8D5BB4FF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62731C00-1C05-48A2-8013-0D8D5BB4FF44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

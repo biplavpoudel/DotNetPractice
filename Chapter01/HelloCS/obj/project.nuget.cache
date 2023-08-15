@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/n3OhZWzG/yJkgw7p7ah8qBR1INNppCgMts43ZTLpmZdWNMI3wKISHhcseYJ8JPuH9AGRL189onA6dVDV8L27g==",
+  "dgSpecHash": "K2DivOeeeKmAqezNKiJ+pdx44nwXDumFEDfcn1eE2TN4ZoeReq4b8UN5wdhRlzfr6E7lJcpDvo/oexp3Hbbrng==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter01\\HelloCS\\HelloCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

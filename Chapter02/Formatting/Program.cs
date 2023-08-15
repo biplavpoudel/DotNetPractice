@@ -51,13 +51,13 @@
 //arg0: text,
 //arg1: applesCount);
 
-//WriteLine("Enter your name here:");
-//string? name = ReadLine()!;
+WriteLine("Enter your name here:");
+string? name = ReadLine()!;
 
-//WriteLine("Enter your age here:");
-//string? age = ReadLine()!;
+WriteLine("Enter your age here:");
+string? age = ReadLine()!;
 
-//WriteLine($"Hello {name}, you look good at the age of {age}.");
+WriteLine($"Hello {name}, you look good at the age of {age}.");
 
 Write("Enter any key combination:");
 ConsoleKeyInfo key = ReadKey();

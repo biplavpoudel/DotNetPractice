@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kEs2nkNTGYYZf02bCCD43KGM7u2pWan0wDadtjtQ3LyY470BUJsAF2pQDFEM9rjzKQfkxvSO21Ec93UC9dnKUQ==",
+  "dgSpecHash": "FS8Q4UjjBshgCdKq2AAxTYIwC9IwcQB+GQ2FPgnZAGsNRjes7cK2+eQ9nY6i3GnRl5Gzjy4kXuoXDr/7fkk8Kw==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

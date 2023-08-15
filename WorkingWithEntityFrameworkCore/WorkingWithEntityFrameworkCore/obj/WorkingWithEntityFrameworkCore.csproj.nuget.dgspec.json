@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cs11dotnet7\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj": {}
+    "C:\\.dotNetPractice\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj": {}
   },
   "projects": {
-    "C:\\cs11dotnet7\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj": {
+    "C:\\.dotNetPractice\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cs11dotnet7\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj",
+        "projectUniqueName": "C:\\.dotNetPractice\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj",
         "projectName": "WorkingWithEntityFrameworkCore",
-        "projectPath": "C:\\cs11dotnet7\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj",
+        "projectPath": "C:\\.dotNetPractice\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\cs11dotnet7\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\obj\\",
+        "outputPath": "C:\\.dotNetPractice\\WorkingWithEntityFrameworkCore\\WorkingWithEntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

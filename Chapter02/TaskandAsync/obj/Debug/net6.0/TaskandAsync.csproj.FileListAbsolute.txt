@@ -1,0 +1,14 @@
+C:\.dotNetPractice\Chapter02\TaskandAsync\bin\Debug\net6.0\TaskandAsync.exe
+C:\.dotNetPractice\Chapter02\TaskandAsync\bin\Debug\net6.0\TaskandAsync.deps.json
+C:\.dotNetPractice\Chapter02\TaskandAsync\bin\Debug\net6.0\TaskandAsync.runtimeconfig.json
+C:\.dotNetPractice\Chapter02\TaskandAsync\bin\Debug\net6.0\TaskandAsync.dll
+C:\.dotNetPractice\Chapter02\TaskandAsync\bin\Debug\net6.0\TaskandAsync.pdb
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.AssemblyInfo.cs
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.dll
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\refint\TaskandAsync.dll
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.pdb
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\TaskandAsync.genruntimeconfig.cache
+C:\.dotNetPractice\Chapter02\TaskandAsync\obj\Debug\net6.0\ref\TaskandAsync.dll

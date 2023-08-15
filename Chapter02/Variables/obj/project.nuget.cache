@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "euD0NmCFZeG4+CB9Sa9p8V/Y+qqq5NL5nLMX2lbGB3+5glUUQWgnk5WT4ONlMAqMAAibM0b5uKYkgCfIod08+A==",
+  "dgSpecHash": "Uv4yIsSnwTud+Le/60ui/hRynDC7aVudHorW829WH8ArcxGr+bulcG2V3mQf5UVrEpZK/SlAYB7ApG9Vbqzt8A==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter02\\Variables\\Variables.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter02\\Variables\\Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

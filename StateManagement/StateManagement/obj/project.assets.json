@@ -9610,11 +9610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\StateManagement\\StateManagement\\StateManagement.csproj",
+      "projectUniqueName": "C:\\.dotNetPractice\\StateManagement\\StateManagement\\StateManagement.csproj",
       "projectName": "StateManagement",
-      "projectPath": "C:\\cs11dotnet7\\StateManagement\\StateManagement\\StateManagement.csproj",
+      "projectPath": "C:\\.dotNetPractice\\StateManagement\\StateManagement\\StateManagement.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\cs11dotnet7\\StateManagement\\StateManagement\\obj\\",
+      "outputPath": "C:\\.dotNetPractice\\StateManagement\\StateManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9629,7 +9629,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9672,7 +9671,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

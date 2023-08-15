@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WBfasCzZjKHMyJ+iNdqcUp2E3cdT47ccipjuHVoPcbh3uuO31XZ27EjI8olH8MjHbU30Iasx58YO2Qi1ht1szQ==",
+  "dgSpecHash": "xJJydaasFH+FFMFoZzGvYlwIBqM98O9SDJlj7p+WGQjZr75T7jeUrBytmn+y+02TxN6UL0dkk5e1RMDtwIvPVw==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Delegates\\Delegate\\Delegate.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Delegates\\Delegate\\Delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

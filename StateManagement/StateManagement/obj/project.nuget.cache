@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/xFvGEGOGI/gDnw/ZG+jpinQqJKLJk/lOo+8p2eX4R9YdpTnel2dj7KlXhC2YsEE4Pc1xUxh2+ijIiIsP3YIpg==",
+  "dgSpecHash": "rPlDY0hpSdWxaZ5sjBAKOJppvGh01XZ5T5QJHFxg1cbfPk0DDeoRqEw/27pW/M2wFRjhVu1zgQTc0HTA/fE3ww==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\StateManagement\\StateManagement\\StateManagement.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\StateManagement\\StateManagement\\StateManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

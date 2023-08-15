@@ -13,3 +13,17 @@ C:\cs11dotnet7\Chapter02\Vocabulary\obj\Debug\net6.0\refint\Vocabulary.dll
 C:\cs11dotnet7\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
 C:\cs11dotnet7\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
 C:\cs11dotnet7\Chapter02\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll
+C:\.dotNetPractice\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+C:\.dotNetPractice\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+C:\.dotNetPractice\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+C:\.dotNetPractice\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+C:\.dotNetPractice\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\refint\Vocabulary.dll
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
+C:\.dotNetPractice\Chapter02\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll

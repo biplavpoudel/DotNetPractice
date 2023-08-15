@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HTQZn3xRPGrrT2kt7w0FXxtVfPiCdgjdlVAMdA0RDZJPJ6PAq8zXjsGQ3FHPGcNeC/MLbtXFdmvGIasWgFmHnQ==",
+  "dgSpecHash": "aA/k2eZr79PyaLS7nKM/3I/NhBEB37fICzzSJVHgqqrCfcJzCUS8c/I0JXxJ1z0TJh3qBJvgq3a/C9biTrQ3xg==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter02\\Vocabulary\\Vocabulary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

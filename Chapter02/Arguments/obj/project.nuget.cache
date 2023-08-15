@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SmqBHN6btlm/PozzXWf5/hOS9lU+ebGMp9XvGCF/wfnAlJ6s2BIn3dbETv/ALffWsPxX52us10F2EKR31w3Okw==",
+  "dgSpecHash": "sPnLOlY1JRRoTgTqXTtRsaZ8bE+V3fka+HJa9+Ftm3OUDwyCEAnTfjlTXjZpxS8C+FepMwQSHmyJZ5a0jE8nIw==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter02\\Arguments\\Arguments.csproj",
+  "projectFilePath": "C:\\.dotNetPractice\\Chapter02\\Arguments\\Arguments.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

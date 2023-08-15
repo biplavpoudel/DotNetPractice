@@ -13,3 +13,17 @@ C:\cs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net6.0\refint\AsyncConsole.dll
 C:\cs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.pdb
 C:\cs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.genruntimeconfig.cache
 C:\cs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net6.0\ref\AsyncConsole.dll
+C:\.dotNetPractice\Chapter02\AsyncConsole\bin\Debug\net6.0\AsyncConsole.exe
+C:\.dotNetPractice\Chapter02\AsyncConsole\bin\Debug\net6.0\AsyncConsole.deps.json
+C:\.dotNetPractice\Chapter02\AsyncConsole\bin\Debug\net6.0\AsyncConsole.runtimeconfig.json
+C:\.dotNetPractice\Chapter02\AsyncConsole\bin\Debug\net6.0\AsyncConsole.dll
+C:\.dotNetPractice\Chapter02\AsyncConsole\bin\Debug\net6.0\AsyncConsole.pdb
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.AssemblyInfo.cs
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.dll
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\refint\AsyncConsole.dll
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.pdb
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\AsyncConsole.genruntimeconfig.cache
+C:\.dotNetPractice\Chapter02\AsyncConsole\obj\Debug\net6.0\ref\AsyncConsole.dll
